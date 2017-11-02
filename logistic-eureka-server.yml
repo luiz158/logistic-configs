@@ -6,7 +6,7 @@ spring:
       enabled: false    
     
 server:
-  port: 9001
+  port: 9091
 
 eureka:
   instance:
