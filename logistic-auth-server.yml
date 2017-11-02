@@ -19,7 +19,7 @@ security:
             access-token-validity-seconds: 1800
             authorized-grant-types: password,refresh_token
             client-id: logistic
-            client-secret: $2a$10$p9Pk0fQNAQSesI4vuvKA0OZanDD2
+            client-secret: $2a$10$sZPXPgGlKEzT6VeGjZNsiO4k8P1.R6DpQUTInrGdCUUzH1NhVjZSW
             resource-ids: resources
             scope: read,write            
 
