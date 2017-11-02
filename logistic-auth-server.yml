@@ -28,10 +28,10 @@ spring:
         data: classpath:/sql/data.sql
         driver-class-name: com.mysql.jdbc.Driver
         password: 'logistic'
-        platform: logistic
+        platform: mysql
         schema: classpath:/sql/schema.sql
         url: jdbc:mysql://localhost/oauth?verifyServerCertificate=false&useSSL=false&requireSSL=false
-        username: root
+        username: logistic
     jpa:
         database-platform: org.hibernate.dialect.MySQLDialect
         generate-ddl: false
