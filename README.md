@@ -1,2 +1,1 @@
-# logistic-configs
-Configurations to Logistic Project
+# Configurations to Logistic Project
